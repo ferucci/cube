@@ -1,2 +1,1 @@
 # cube
-Best Cube
